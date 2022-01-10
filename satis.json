@@ -1,0 +1,17 @@
+{
+  "name": "textielstad/satis",
+  "homepage": "https://textielstad.github.io/satis/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git://github.com/Textielstad/CheckoutAddressCheck"
+    },
+    {
+      "packagist": false
+    },
+    {
+      "firegento": false
+    }
+  ],
+  "require-all": true
+}
