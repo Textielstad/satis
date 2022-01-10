@@ -1,26 +1,12 @@
 {
     "packages": [],
     "includes": {
-        "include/all$fd1f9bb2202478030b9f85bac12d0b457583adca.json": {
-            "sha1": "fd1f9bb2202478030b9f85bac12d0b457583adca"
+        "include/all$54090f4e10f4cae79783dfff83afd3ca464afd23.json": {
+            "sha1": "54090f4e10f4cae79783dfff83afd3ca464afd23"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "b2bzanden/alwaysship",
-        "b2bzanden/b2brules",
-        "b2bzanden/b2bshipping",
-        "b2bzanden/categorycreator",
-        "b2bzanden/categorydescriptionbottom",
-        "b2bzanden/changecategorytitle",
-        "b2bzanden/checkoutcmsblock",
-        "b2bzanden/conneqt-m2-specialprices",
-        "b2bzanden/customstockstatus",
-        "b2bzanden/fastorder",
-        "b2bzanden/fixpart",
-        "b2bzanden/importphotos",
-        "b2bzanden/sitemapurl",
-        "b2bzanden/suitablefor",
-        "b2bzanden/tig-gls-magento2"
+        "textielstad/checkout-address-check"
     ]
 }
