@@ -7,12 +7,12 @@
                 "version_normalized": "0.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:Textielstad/CheckoutAddressCheck.git",
+                    "url": "git@github.com:Textielstad/M2_CheckoutAddressCheck.git",
                     "reference": "110971620af2702a127ec2f54af6fb8df1218480"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/CheckoutAddressCheck/zipball/110971620af2702a127ec2f54af6fb8df1218480",
+                    "url": "https://api.github.com/repos/Textielstad/M2_CheckoutAddressCheck/zipball/110971620af2702a127ec2f54af6fb8df1218480",
                     "reference": "110971620af2702a127ec2f54af6fb8df1218480",
                     "shasum": ""
                 },
@@ -43,8 +43,8 @@
                 ],
                 "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
                 "support": {
-                    "source": "https://github.com/Textielstad/CheckoutAddressCheck/tree/0.0.1",
-                    "issues": "https://github.com/Textielstad/CheckoutAddressCheck/issues"
+                    "source": "https://github.com/Textielstad/M2_CheckoutAddressCheck/tree/0.0.1",
+                    "issues": "https://github.com/Textielstad/M2_CheckoutAddressCheck/issues"
                 }
             },
             {
@@ -53,12 +53,12 @@
                 "version_normalized": "0.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:Textielstad/CheckoutAddressCheck.git",
+                    "url": "git@github.com:Textielstad/M2_CheckoutAddressCheck.git",
                     "reference": "037b65be656f0390307fa7856545321acd70bf95"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/CheckoutAddressCheck/zipball/037b65be656f0390307fa7856545321acd70bf95",
+                    "url": "https://api.github.com/repos/Textielstad/M2_CheckoutAddressCheck/zipball/037b65be656f0390307fa7856545321acd70bf95",
                     "reference": "037b65be656f0390307fa7856545321acd70bf95",
                     "shasum": ""
                 },
@@ -90,8 +90,8 @@
                 "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
                 "homepage": "https://github.com/Textielstad/CheckoutAddressCheck",
                 "support": {
-                    "source": "https://github.com/Textielstad/CheckoutAddressCheck/tree/0.0.2",
-                    "issues": "https://github.com/Textielstad/CheckoutAddressCheck/issues"
+                    "source": "https://github.com/Textielstad/M2_CheckoutAddressCheck/tree/0.0.2",
+                    "issues": "https://github.com/Textielstad/M2_CheckoutAddressCheck/issues"
                 }
             }
         ]

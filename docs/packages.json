@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$54090f4e10f4cae79783dfff83afd3ca464afd23.json": {
-            "sha1": "54090f4e10f4cae79783dfff83afd3ca464afd23"
+        "include/all$4e4a1d5cd6dcb749b52e3fbea155716f63206f22.json": {
+            "sha1": "4e4a1d5cd6dcb749b52e3fbea155716f63206f22"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "textielstad/checkout-address-check"
+        "textielstad/checkout-address-check",
+        "textielstad/ibnab-m2-delete-orders"
     ]
 }

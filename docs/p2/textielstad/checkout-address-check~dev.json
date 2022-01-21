@@ -7,13 +7,13 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:Textielstad/CheckoutAddressCheck.git",
-                    "reference": "037b65be656f0390307fa7856545321acd70bf95"
+                    "url": "git@github.com:Textielstad/M2_CheckoutAddressCheck.git",
+                    "reference": "80b0cfd75539f1b36a2c248b1f717aa32e2386f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/CheckoutAddressCheck/zipball/037b65be656f0390307fa7856545321acd70bf95",
-                    "reference": "037b65be656f0390307fa7856545321acd70bf95",
+                    "url": "https://api.github.com/repos/Textielstad/M2_CheckoutAddressCheck/zipball/80b0cfd75539f1b36a2c248b1f717aa32e2386f8",
+                    "reference": "80b0cfd75539f1b36a2c248b1f717aa32e2386f8",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "magento/module-backend": "*",
                     "php": "~7.0|~7.1|~7.2|~7.3|~7.4"
                 },
-                "time": "2022-01-10T10:11:05+00:00",
+                "time": "2022-01-10T10:24:26+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -45,8 +45,8 @@
                 "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
                 "homepage": "https://github.com/Textielstad/CheckoutAddressCheck",
                 "support": {
-                    "source": "https://github.com/Textielstad/CheckoutAddressCheck/tree/0.0.2",
-                    "issues": "https://github.com/Textielstad/CheckoutAddressCheck/issues"
+                    "source": "https://github.com/Textielstad/M2_CheckoutAddressCheck/tree/main",
+                    "issues": "https://github.com/Textielstad/M2_CheckoutAddressCheck/issues"
                 }
             }
         ]

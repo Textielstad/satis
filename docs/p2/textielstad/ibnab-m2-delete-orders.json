@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "textielstad/ibnab-m2-delete-orders": [
+            {
+                "name": "textielstad/ibnab-m2-delete-orders",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Textielstad/M2_DeleteOrders.git",
+                    "reference": "968f4eef698feeaf6a8d5e592d630f58088e305e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/M2_DeleteOrders/zipball/968f4eef698feeaf6a8d5e592d630f58088e305e",
+                    "reference": "968f4eef698feeaf6a8d5e592d630f58088e305e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2022-01-21T12:49:18+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "map": [
+                        [
+                            "*",
+                            "Ibnab/DeleteOrders"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Forked extension for deleting orders in Magento 2",
+                "support": {
+                    "source": "https://github.com/Textielstad/M2_DeleteOrders/tree/1.0.0.1"
+                }
+            }
+        ]
+    }
+}

@@ -4,7 +4,11 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git://github.com/Textielstad/CheckoutAddressCheck"
+      "url": "git://github.com/Textielstad/M2_CheckoutAddressCheck"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/Textielstad/M2_DeleteOrders"
     },
     {
       "packagist": false
