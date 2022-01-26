@@ -98,7 +98,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/main",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/101.4.8.1",
                     "issues": "https://github.com/Textielstad/Anowave_M2_EC/issues"
                 }
             }
@@ -191,7 +191,7 @@
                 "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking (GA4)",
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/Textielstad/Anowave_M2_EC4/tree/main",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC4/tree/100.3.0.1",
                     "issues": "https://github.com/Textielstad/Anowave_M2_EC4/issues"
                 }
             }
@@ -290,7 +290,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/Textielstad/Anowave_M2_Package/tree/main",
+                    "source": "https://github.com/Textielstad/Anowave_M2_Package/tree/1.0.8.1",
                     "issues": "https://github.com/Textielstad/Anowave_M2_Package/issues"
                 }
             }
