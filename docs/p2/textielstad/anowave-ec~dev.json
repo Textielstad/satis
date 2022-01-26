@@ -1,0 +1,57 @@
+{
+    "packages": {
+        "textielstad/anowave-ec": [
+            {
+                "name": "textielstad/anowave-ec",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/Anowave_M2_EC.git",
+                    "reference": "09dd7b85880e934a4fe56a2c61c4c3c22849ee69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC/zipball/09dd7b85880e934a4fe56a2c61c4c3c22849ee69",
+                    "reference": "09dd7b85880e934a4fe56a2c61c4c3c22849ee69",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+                    "textielstad/anowave-package": ">0.0.0"
+                },
+                "time": "2022-01-26T14:28:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "homepage": "https://www.anowave.com"
+                    }
+                ],
+                "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking",
+                "homepage": "http://www.anowave.com/marketplace/magento-2-extensions/magento-2-google-tag-manager-enhanced-ecommerce-ua-tracking/",
+                "keywords": [
+                    "adwords dynamic remarketing",
+                    "enhanced ecommerce tracking",
+                    "google analytics",
+                    "google tag manager",
+                    "gtag"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/main",
+                    "issues": "https://github.com/Textielstad/Anowave_M2_EC/issues"
+                }
+            }
+        ]
+    }
+}

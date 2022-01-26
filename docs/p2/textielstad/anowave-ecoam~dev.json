@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "textielstad/anowave-ecoam": [
+            {
+                "name": "textielstad/anowave-ecoam",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/Anowave_M2_EC4.git",
+                    "reference": "20665d0bc924602d5abcf4dee429e389617c7e8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC4/zipball/20665d0bc924602d5abcf4dee429e389617c7e8f",
+                    "reference": "20665d0bc924602d5abcf4dee429e389617c7e8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+                    "textielstad/anowave-ec": ">=100.5.8",
+                    "textielstad/anowave-package": ">0.0.0"
+                },
+                "time": "2022-01-26T14:28:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec4\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking (GA4)",
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC4/tree/main",
+                    "issues": "https://github.com/Textielstad/Anowave_M2_EC4/issues"
+                }
+            }
+        ]
+    }
+}

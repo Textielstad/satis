@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "textielstad/anowave-ecoam": [
+            {
+                "name": "textielstad/anowave-ecoam",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/Anowave_M2_EC4.git",
+                    "reference": "b743adddc82a4b5af7aebb4eb69020800eb2b98f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC4/zipball/b743adddc82a4b5af7aebb4eb69020800eb2b98f",
+                    "reference": "b743adddc82a4b5af7aebb4eb69020800eb2b98f",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/ec": ">=100.5.8",
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2022-01-26T14:00:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec4\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking (GA4)",
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC4/tree/100.3.0",
+                    "issues": "https://github.com/Textielstad/Anowave_M2_EC4/issues"
+                }
+            }
+        ]
+    }
+}

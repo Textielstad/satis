@@ -1,15 +1,15 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6582bc30dac69ee9692274e1ee26ab30020b6e9e.json": {
-            "sha1": "6582bc30dac69ee9692274e1ee26ab30020b6e9e"
+        "include/all$71df770aa1b4984e7b0d53bfae846c1a9d6d77e7.json": {
+            "sha1": "71df770aa1b4984e7b0d53bfae846c1a9d6d77e7"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "anowave/ec",
-        "anowave/ecoam",
-        "anowave/package",
+        "textielstad/anowave-ec",
+        "textielstad/anowave-ecoam",
+        "textielstad/anowave-package",
         "textielstad/checkout-address-check",
         "textielstad/ibnab-m2-delete-orders"
     ]
