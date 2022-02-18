@@ -50,6 +50,56 @@
                     "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/101.4.8",
                     "issues": "https://github.com/Textielstad/Anowave_M2_EC/issues"
                 }
+            },
+            {
+                "name": "textielstad/anowave-ec",
+                "version": "101.5.4",
+                "version_normalized": "101.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/Anowave_M2_EC.git",
+                    "reference": "6733d09b77db117c1e398b1cbc41949bc1f46396"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC/zipball/6733d09b77db117c1e398b1cbc41949bc1f46396",
+                    "reference": "6733d09b77db117c1e398b1cbc41949bc1f46396",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+                    "textielstad/anowave-package": ">0.0.0"
+                },
+                "time": "2022-02-18T13:00:53+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "homepage": "https://www.anowave.com"
+                    }
+                ],
+                "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking",
+                "homepage": "http://www.anowave.com/marketplace/magento-2-extensions/magento-2-google-tag-manager-enhanced-ecommerce-ua-tracking/",
+                "keywords": [
+                    "adwords dynamic remarketing",
+                    "enhanced ecommerce tracking",
+                    "google analytics",
+                    "google tag manager",
+                    "gtag"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/101.5.4",
+                    "issues": "https://github.com/Textielstad/Anowave_M2_EC/issues"
+                }
             }
         ]
     }

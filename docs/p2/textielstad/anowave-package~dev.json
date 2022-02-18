@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Textielstad/Anowave_M2_Package.git",
-                    "reference": "30f2396b1b66c6ff7c316cd1a51c98a50099344c"
+                    "reference": "e4338128837e37515d04b40e22cad8f70eab5ff8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_Package/zipball/30f2396b1b66c6ff7c316cd1a51c98a50099344c",
-                    "reference": "30f2396b1b66c6ff7c316cd1a51c98a50099344c",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_Package/zipball/e4338128837e37515d04b40e22cad8f70eab5ff8",
+                    "reference": "e4338128837e37515d04b40e22cad8f70eab5ff8",
                     "shasum": ""
                 },
                 "require": {
                     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
                 },
-                "time": "2022-01-26T14:28:11+00:00",
+                "time": "2022-02-18T13:02:13+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -46,7 +46,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/Textielstad/Anowave_M2_Package/tree/1.0.8.1",
+                    "source": "https://github.com/Textielstad/Anowave_M2_Package/tree/1.0.9",
                     "issues": "https://github.com/Textielstad/Anowave_M2_Package/issues"
                 }
             }

@@ -48,6 +48,54 @@
                     "source": "https://github.com/Textielstad/Anowave_M2_Package/tree/1.0.8",
                     "issues": "https://github.com/Textielstad/Anowave_M2_Package/issues"
                 }
+            },
+            {
+                "name": "textielstad/anowave-package",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/Anowave_M2_Package.git",
+                    "reference": "e4338128837e37515d04b40e22cad8f70eab5ff8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_Package/zipball/e4338128837e37515d04b40e22cad8f70eab5ff8",
+                    "reference": "e4338128837e37515d04b40e22cad8f70eab5ff8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2022-02-18T13:02:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Package\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Anowave Package",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave package",
+                    "magento 2 package extension"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/Textielstad/Anowave_M2_Package/tree/1.0.9",
+                    "issues": "https://github.com/Textielstad/Anowave_M2_Package/issues"
+                }
             }
         ]
     }

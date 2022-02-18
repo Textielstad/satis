@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Textielstad/Anowave_M2_EC4.git",
-                    "reference": "b743adddc82a4b5af7aebb4eb69020800eb2b98f"
+                    "reference": "20665d0bc924602d5abcf4dee429e389617c7e8f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC4/zipball/b743adddc82a4b5af7aebb4eb69020800eb2b98f",
-                    "reference": "b743adddc82a4b5af7aebb4eb69020800eb2b98f",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC4/zipball/20665d0bc924602d5abcf4dee429e389617c7e8f",
+                    "reference": "20665d0bc924602d5abcf4dee429e389617c7e8f",
                     "shasum": ""
                 },
                 "require": {
-                    "anowave/ec": ">=100.5.8",
-                    "anowave/package": ">0.0.0",
-                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+                    "textielstad/anowave-ec": ">=100.5.8",
+                    "textielstad/anowave-package": ">0.0.0"
                 },
-                "time": "2022-01-26T14:00:52+00:00",
+                "time": "2022-01-26T14:28:12+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
