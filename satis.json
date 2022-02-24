@@ -23,6 +23,10 @@
       "url": "git://github.com/Textielstad/M2_DeleteOrders"
     },
     {
+      "type": "vcs",
+      "url": "git://github.com/Textielstad/M2_Stoffentafel"
+    },
+    {
       "packagist": false
     },
     {
