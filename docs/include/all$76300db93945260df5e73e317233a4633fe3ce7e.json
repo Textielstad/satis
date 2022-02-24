@@ -108,19 +108,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Textielstad/Anowave_M2_EC.git",
-                    "reference": "6733d09b77db117c1e398b1cbc41949bc1f46396"
+                    "reference": "5e0f34fc2da9e5d95af1c91384f936ee00743294"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC/zipball/6733d09b77db117c1e398b1cbc41949bc1f46396",
-                    "reference": "6733d09b77db117c1e398b1cbc41949bc1f46396",
+                    "url": "https://api.github.com/repos/Textielstad/Anowave_M2_EC/zipball/5e0f34fc2da9e5d95af1c91384f936ee00743294",
+                    "reference": "5e0f34fc2da9e5d95af1c91384f936ee00743294",
                     "shasum": ""
                 },
                 "require": {
                     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
                     "textielstad/anowave-package": ">0.0.0"
                 },
-                "time": "2022-02-18T13:00:53+00:00",
+                "time": "2022-02-23T19:19:56+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -148,7 +148,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/101.5.4",
+                    "source": "https://github.com/Textielstad/Anowave_M2_EC/tree/main",
                     "issues": "https://github.com/Textielstad/Anowave_M2_EC/issues"
                 }
             }
@@ -688,6 +688,89 @@
                 "description": "extension for deleting orders in magento 2",
                 "support": {
                     "source": "https://github.com/Textielstad/M2_DeleteOrders/tree/patch-1"
+                }
+            }
+        },
+        "wdt/magento2-module-stoffentafel": {
+            "1.0.1": {
+                "name": "wdt/magento2-module-stoffentafel",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/M2_Stoffentafel.git",
+                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*"
+                },
+                "time": "2022-02-24T13:46:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "WebdesignTilburg\\Stoffentafel\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "WebdesignTilburg",
+                        "email": "info@webdesigntilburg.nl"
+                    }
+                ],
+                "description": "Adds a 'stoffentafel' page to Magento",
+                "support": {
+                    "source": "https://github.com/Textielstad/M2_Stoffentafel/tree/1.0.1",
+                    "issues": "https://github.com/Textielstad/M2_Stoffentafel/issues"
+                }
+            },
+            "dev-main": {
+                "name": "wdt/magento2-module-stoffentafel",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/M2_Stoffentafel.git",
+                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*"
+                },
+                "time": "2022-02-24T13:46:51+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "WebdesignTilburg\\Stoffentafel\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "WebdesignTilburg",
+                        "email": "info@webdesigntilburg.nl"
+                    }
+                ],
+                "description": "Adds a 'stoffentafel' page to Magento",
+                "support": {
+                    "source": "https://github.com/Textielstad/M2_Stoffentafel/tree/1.0.1",
+                    "issues": "https://github.com/Textielstad/M2_Stoffentafel/issues"
                 }
             }
         }

@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "wdt/magento2-module-stoffentafel": [
+            {
+                "name": "wdt/magento2-module-stoffentafel",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/M2_Stoffentafel.git",
+                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*"
+                },
+                "time": "2022-02-24T13:46:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "WebdesignTilburg\\Stoffentafel\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "WebdesignTilburg",
+                        "email": "info@webdesigntilburg.nl"
+                    }
+                ],
+                "description": "Adds a 'stoffentafel' page to Magento",
+                "support": {
+                    "source": "https://github.com/Textielstad/M2_Stoffentafel/tree/1.0.1",
+                    "issues": "https://github.com/Textielstad/M2_Stoffentafel/issues"
+                }
+            }
+        ]
+    }
+}
