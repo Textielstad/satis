@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Textielstad/M2_Stoffentafel.git",
-                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d"
+                    "reference": "523753b5d8a247cae840a9862ba9ef4043eb249f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/3d5074d5cdf4b511ee23641209be8af430144b1d",
-                    "reference": "3d5074d5cdf4b511ee23641209be8af430144b1d",
+                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/523753b5d8a247cae840a9862ba9ef4043eb249f",
+                    "reference": "523753b5d8a247cae840a9862ba9ef4043eb249f",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*"
                 },
-                "time": "2022-02-24T13:46:51+00:00",
+                "time": "2022-04-06T13:44:23+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -38,7 +38,7 @@
                 ],
                 "description": "Adds a 'stoffentafel' page to Magento",
                 "support": {
-                    "source": "https://github.com/Textielstad/M2_Stoffentafel/tree/1.0.1",
+                    "source": "https://github.com/Textielstad/M2_Stoffentafel/tree/1.1.0",
                     "issues": "https://github.com/Textielstad/M2_Stoffentafel/issues"
                 }
             }
