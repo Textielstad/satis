@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Textielstad/M2_Stoffentafel.git",
-                    "reference": "523753b5d8a247cae840a9862ba9ef4043eb249f"
+                    "reference": "2380353ca08b583993bbcb64e3c3d1045cc05ff6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/523753b5d8a247cae840a9862ba9ef4043eb249f",
-                    "reference": "523753b5d8a247cae840a9862ba9ef4043eb249f",
+                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel/zipball/2380353ca08b583993bbcb64e3c3d1045cc05ff6",
+                    "reference": "2380353ca08b583993bbcb64e3c3d1045cc05ff6",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*"
                 },
-                "time": "2022-04-06T13:44:23+00:00",
+                "time": "2022-04-07T08:24:37+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
