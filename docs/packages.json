@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$26c32540d3a14295d3d89d08439020ac5736a15c.json": {
-            "sha1": "26c32540d3a14295d3d89d08439020ac5736a15c"
+        "include/all$0190d5730cbee3cd4b6f2bc9f7d000f0e0dc1f1a.json": {
+            "sha1": "0190d5730cbee3cd4b6f2bc9f7d000f0e0dc1f1a"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -10,8 +10,10 @@
         "textielstad/anowave-ec",
         "textielstad/anowave-ecoam",
         "textielstad/anowave-package",
+        "textielstad/backend",
         "textielstad/checkout-address-check",
         "textielstad/ibnab-m2-delete-orders",
+        "textielstad/stoffentafel-cron",
         "wdt/magento2-module-stoffentafel"
     ]
 }

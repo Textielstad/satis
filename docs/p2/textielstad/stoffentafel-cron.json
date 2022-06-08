@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "textielstad/stoffentafel-cron": [
+            {
+                "name": "textielstad/stoffentafel-cron",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Textielstad/M2_Stoffentafel_Cron.git",
+                    "reference": "43607a66c39709fcd060260dd2fba55bf315129b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Textielstad/M2_Stoffentafel_Cron/zipball/43607a66c39709fcd060260dd2fba55bf315129b",
+                    "reference": "43607a66c39709fcd060260dd2fba55bf315129b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-backend": "*",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4"
+                },
+                "time": "2022-06-08T12:39:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Textielstad\\StoffentafelCron\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    }
+                ],
+                "description": "adds design_table tag to product images",
+                "homepage": "https://github.com/Textielstad/StoffentafelCron",
+                "support": {
+                    "source": "https://github.com/Textielstad/M2_Stoffentafel_Cron/tree/0.0.1",
+                    "issues": "https://github.com/Textielstad/M2_Stoffentafel_Cron/issues"
+                }
+            }
+        ]
+    }
+}
