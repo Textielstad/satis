@@ -27,6 +27,14 @@
       "url": "git://github.com/Textielstad/M2_Stoffentafel"
     },
     {
+      "type": "vcs",
+      "url": "git://github.com/Textielstad/M2_Stoffentafel_Cron"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:Textielstad/M2_Textielstad_Backend.git"
+    },
+    {
       "packagist": false
     },
     {
